@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F5C003012A9F688D00DB295E /* Arithgame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Arithgame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F5C003012A9F688D00DB295E /* ArithmeticGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ArithmeticGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5C003042A9F688D00DB295E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F5C003062A9F688D00DB295E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		F5C003082A9F688D00DB295E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		F5C003022A9F688D00DB295E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F5C003012A9F688D00DB295E /* Arithgame.app */,
+				F5C003012A9F688D00DB295E /* ArithmeticGame.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F5C003002A9F688D00DB295E /* Arithgame */ = {
+		F5C003002A9F688D00DB295E /* ArithmeticGame */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F5C003152A9F689000DB295E /* Build configuration list for PBXNativeTarget "Arithgame" */;
+			buildConfigurationList = F5C003152A9F689000DB295E /* Build configuration list for PBXNativeTarget "ArithmeticGame" */;
 			buildPhases = (
 				F5C002FD2A9F688D00DB295E /* Sources */,
 				F5C002FE2A9F688D00DB295E /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = Arithgame;
+			name = ArithmeticGame;
 			productName = Arithgame;
-			productReference = F5C003012A9F688D00DB295E /* Arithgame.app */;
+			productReference = F5C003012A9F688D00DB295E /* ArithmeticGame.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F5C002FC2A9F688D00DB295E /* Build configuration list for PBXProject "Arithgame" */;
+			buildConfigurationList = F5C002FC2A9F688D00DB295E /* Build configuration list for PBXProject "ArithmeticGame" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F5C003002A9F688D00DB295E /* Arithgame */,
+				F5C003002A9F688D00DB295E /* ArithmeticGame */,
 			);
 		};
 /* End PBXProject section */
@@ -339,7 +339,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F5C002FC2A9F688D00DB295E /* Build configuration list for PBXProject "Arithgame" */ = {
+		F5C002FC2A9F688D00DB295E /* Build configuration list for PBXProject "ArithmeticGame" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F5C003132A9F689000DB295E /* Debug */,
@@ -348,7 +348,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F5C003152A9F689000DB295E /* Build configuration list for PBXNativeTarget "Arithgame" */ = {
+		F5C003152A9F689000DB295E /* Build configuration list for PBXNativeTarget "ArithmeticGame" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F5C003162A9F689000DB295E /* Debug */,
